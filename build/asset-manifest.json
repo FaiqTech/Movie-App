@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/FaiqTech-Movie-App-in-React/static/css/main.c8effebe.css",
-    "main.js": "/FaiqTech-Movie-App-in-React/static/js/main.05472b57.js",
-    "static/media/logo.jpeg": "/FaiqTech-Movie-App-in-React/static/media/logo.532c669d4f29395307b7.jpeg",
-    "index.html": "/FaiqTech-Movie-App-in-React/index.html",
-    "main.c8effebe.css.map": "/FaiqTech-Movie-App-in-React/static/css/main.c8effebe.css.map",
-    "main.05472b57.js.map": "/FaiqTech-Movie-App-in-React/static/js/main.05472b57.js.map"
+    "main.css": "/Movie-app/static/css/main.c8effebe.css",
+    "main.js": "/Movie-app/static/js/main.2236dc43.js",
+    "static/media/logo.jpeg": "/Movie-app/static/media/logo.532c669d4f29395307b7.jpeg",
+    "index.html": "/Movie-app/index.html",
+    "main.c8effebe.css.map": "/Movie-app/static/css/main.c8effebe.css.map",
+    "main.2236dc43.js.map": "/Movie-app/static/js/main.2236dc43.js.map"
   },
   "entrypoints": [
     "static/css/main.c8effebe.css",
-    "static/js/main.05472b57.js"
+    "static/js/main.2236dc43.js"
   ]
 }
