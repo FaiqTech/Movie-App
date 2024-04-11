@@ -1,0 +1,71 @@
+/* header.css */
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background-color: #333;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.link.active {
+  font-weight: bold;
+  color: #e6b400; /* Aktif bağlantı rengi */
+}
+
+.left {
+  display: flex;
+  align-items: center;
+}
+
+.left-logo {
+  width: 50px;
+  height: auto;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.info h4 {
+  margin: 0;
+  font-size: 18px;
+}
+
+.info p {
+  margin: 5px 0 0;
+  font-size: 14px;
+}
+.searchInput {
+  width: 300px;
+  height: 15px;
+  padding: 10px;
+  font-size: 16px;
+  border: 2px solid #ccc;
+  border-radius: 20px;
+  outline: none;
+}
+
+.searchInput::placeholder {
+  color: #999; /* Gri bir yer tutucu metin rengi */
+}
+
+.searchInput:focus {
+  border-color: #66afe9; /* Odaklandığında kenarlığı mavi yapın */
+}
+
+.right {
+  display: flex;
+}
+
+.link {
+  color: #fff;
+  text-decoration: none;
+  margin-left: 15px;
+  font-size: 16px;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
